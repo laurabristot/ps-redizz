@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "e1de",
+      "productName": "tesla",
+      "description": "carrinho vrum vrum",
+      "price": "50000.00"
+    }
+  ],
+  "clients": [
+    {
+      "id": "adeb",
+      "fName": "Laura",
+      "lName": "Bristot",
+      "phone": "48998544513",
+      "cpf": "123"
+    }
+  ],
+  "orders": []
+}
